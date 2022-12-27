@@ -3,6 +3,6 @@
 ### This will be a series of my machine learning journey
 
 #### Contents
-1. Housing Price Forecast(Feature scaling is done, Model training is waiting!)
+1. Housing Price Forecast(Tried 3 models, still overfit!)
 ![California-Distribution](house.png)
 More content will come soon!
