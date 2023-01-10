@@ -10,6 +10,6 @@
 ![Sketched dino](assets/dino.png) <br>
 * 3D Vectors <br>
 ![Sketched sphere](assets/sphere.png) <br>
-More content will come soon!
 * Linear Algebra <br>
-* Statistics
+* Statistics <br>
+More content will come soon!
