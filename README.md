@@ -12,4 +12,5 @@
 ![Sketched sphere](assets/sphere.png) <br>
 * Linear Algebra <br>
 * Statistics <br>
+* Probability <br>
 More content will come soon!
