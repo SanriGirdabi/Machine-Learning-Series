@@ -13,4 +13,5 @@
 * Linear Algebra <br>
 * Statistics <br>
 * Probability <br>
+* Hypothesis Inference <br>
 More content will come soon!
