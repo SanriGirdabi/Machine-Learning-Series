@@ -14,4 +14,6 @@
 * Statistics <br>
 * Probability <br>
 * Hypothesis Inference <br>
-More content will come soon!
+* Visualisation <br>
+- In notebooks in the math folder please don't forget to change the file directories to yours!! <br>
+## More content will come soon!
