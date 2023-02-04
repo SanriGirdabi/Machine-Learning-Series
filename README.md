@@ -20,4 +20,3 @@
   2. K-Nearest
   3. Naive Bayes
 - In notebooks in the math folder please don't forget to change the file directories to yours!! <br>
-## More content will come soon!
