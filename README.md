@@ -4,8 +4,10 @@
 
 #### Contents
 1. Housing Price Forecast(First test Project!)
-![California-Distribution](assets/house.png)
-2. Math Foundations with Python
+2. Car Purchase Estimations 
+3. Image Classification from the MNIST Fashion dataset
+4. Classification (MNIST dataset)
+5. Math Foundations with Python
 * 2D Vectors <br>
 ![Sketched dino](assets/dino.png) <br>
 * 3D Vectors <br>
